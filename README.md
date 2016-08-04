@@ -1,2 +1,2 @@
 # hello-world
-My hello world in GitHub
+Hola esta es mi primer Hola Mundo en GitHub, además este es mi primer commit tambien :) 
